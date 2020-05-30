@@ -3,10 +3,10 @@ module.exports = {
     title: `Hahn 2.0`,
     author: {
       name: `Ida und Sonja`,
-      summary: `die am schönsten Ende der Welt leben.`
+      summary: `vom schönsten Ende der Welt!`
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    siteUrl: `https://epic-spence-cc47e8.netlify.app/`,
     social: {
       twitter: `kylemathews`
     }
